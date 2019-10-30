@@ -1,4 +1,11 @@
 /* Deafult Margin & Padding */
+
+.well {
+    background: rgb(230, 230, 230);    
+    height: 4vh;
+    text-align: center;
+}
+
 /*-- Margin Top --*/
 .mt-5 {
 	margin-top: 5px;
