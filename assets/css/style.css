@@ -1780,7 +1780,7 @@ ul.courselist > li {
     padding-left: 20px;
     color: #0a284a;
   font-weight: bold;
-  margin-left:300px;
+  margin-left:200px;
 }
 ul.courselist > li:before {
     content:" ";
@@ -1792,7 +1792,7 @@ ul.courselist > li:before {
     width: 16px;
     height: 16px;
     z-index: 200;
-    margin-left:300px;
+    margin-left:200px;
 }
 ul.courselist > li>a>div {display:none;}
 ul.courselist > li:hover{
